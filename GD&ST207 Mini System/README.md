@@ -1,6 +1,20 @@
 # ST和GD207的最小系统板
 **兼容ST207和GD207**
 
+代码开源地址：
+
+STM32F207代码仓库
+
+[GitHub仓库](https://github.com/strongercjd/STM32F207VCT6)
+
+[码云仓库](https://gitee.com/strongercjd/STM32F207VCT6)
+
+GD32F207代码仓库
+
+[GitHub仓库](https://github.com/strongercjd/GD32F207)
+
+[码云仓库](https://gitee.com/strongercjd/GD32F207)
+
 | 引脚编号    | STM32F207 | GD32F207    | 兼容设计 |
 | :---------- | --------- |--------- |--------- |
 | 19 |接上VDD电源，再接电容接地  |接地|通过0欧姆电阻选择不同电路|
