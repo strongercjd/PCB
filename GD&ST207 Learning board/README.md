@@ -53,13 +53,17 @@ GD32F207VG有256KB的SRAM，有足够的内存显示一张图片。
 
 
 <center>PCB图</center>
+
 ![](https://gitee.com/strongercjd/PCB/raw/master/GD&ST207%20Learning%20board/image/1.jpg)
 
 <center>渲染图</center>
+
 ![](https://gitee.com/strongercjd/PCB/raw/master/GD&ST207%20Learning%20board/image/2.jpg)
 
 
 <center>实物图</center>
+
 ![](https://gitee.com/strongercjd/PCB/raw/master/GD&ST207%20Learning%20board/image/0.jpg)
+
 
 > 上述设计只用于学习参考使用，在普通室温环境下使用没问题，对于参考电路造成商业产品或工业产品故障，本人不负责
