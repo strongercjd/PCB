@@ -10,4 +10,6 @@
 | USB-TO-UART             | USB转232，USB转TTL |
 | GD&ST207 Learning board | GD&ST207的学习板   |
 | GD&ST207 Mini System    | GD&ST207最小系统   |
+| JTAGHub                 | JTAG的转接板       |
+| Jlink-OB                | jlink              |
 
