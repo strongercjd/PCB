@@ -33,3 +33,10 @@ ST-link的硬件可以烧录成stlink，也可以烧录成Jlink
 **注意**
 
 选择USB转串口的CPU需要STM32F103CBT6，不需要USB转串口的可以选择STM32F103C8T6。
+
+
+
+已经打样验证没有问题了
+
+![](https://gitee.com/strongercjd/PCB/raw/master/Jlink-OB/image/5.jpg)
+
