@@ -1,6 +1,6 @@
 # STlink
 
-此硬件可以烧录成stlink。
+此硬件可以烧录成stlink。已经验证，此硬件不能烧录成Jlink-OB。
 
 **AD的渲染图**
 
