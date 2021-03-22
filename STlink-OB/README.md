@@ -1,6 +1,6 @@
 # STlink
 
-此硬件可以烧录成stlink。已经验证，此硬件不能烧录成Jlink-OB。
+此硬件可以烧录成stlink或Jlink-OB。
 
 **AD的渲染图**
 
@@ -33,6 +33,12 @@
 **注意**
 
 **选择USB转串口的CPU需要STM32F103CBT6，不需要USB转串口的可以选择STM32F103C8T6。**
+
+
+
+**烧录成Jlink OB带虚拟串口**
+
+方法和烧录STlink一样，选择Jlink with CDC.bin固件进行烧录，注意安装最新的Jlink驱动，我使用的是JLink_Windows_V698c驱动，在win10上没有问题。
 
 
 
