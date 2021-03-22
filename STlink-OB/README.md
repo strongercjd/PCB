@@ -38,7 +38,7 @@
 
 **烧录成Jlink OB带虚拟串口**
 
-方法和烧录STlink一样，选择Jlink with CDC.bin固件进行烧录，注意安装最新的Jlink驱动，我使用的是JLink_Windows_V698c驱动，在win10上没有问题。
+方法和烧录STlink一样，选择Jlink with CDC.bin固件进行烧录，注意安装最新的Jlink驱动，我使用的是JLink_Windows_V698c驱动，在win10上没有问题。注意：烧录成Jlink后用于指示状态的run指示灯不工作，如果需要指示灯闪烁，可以在clk输出的引脚上拉一个LED即可，或者选择本仓库Jlink OB的的电路硬件。
 
 
 
