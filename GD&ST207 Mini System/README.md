@@ -23,15 +23,20 @@ GD32F207代码仓库
 | 73 |接电容接地  |悬空|PCB设计电容接地，ST贴电容，GD不贴|
 | 99 | 悬空 |接电容接地|PCB设计电容接地，ST不贴，GD贴电容|
 
-<center>PCB图</center>
+V2.0主要是增加了几个按键，将调试接口和本仓库DIY的Jlink匹配，方便携带，如下图
+
+![](https://gitee.com/strongercjd/PCB/raw/master/GD&ST207%20Mini%20System/image/3.jpg)
+
+
+PCB图
 
 ![](https://gitee.com/strongercjd/PCB/raw/master/GD&ST207%20Mini%20System/image/1.jpg)
 
-<center>渲染图</center>
+渲染图
 
 ![](https://gitee.com/strongercjd/PCB/raw/master/GD&ST207%20Mini%20System/image/2.jpg)
 
 
-<center>实物图</center>
+实物图
 
 ![](https://gitee.com/strongercjd/PCB/raw/master/GD&ST207%20Mini%20System/image/0.jpg)
