@@ -13,4 +13,5 @@
 | JTAGHub                 | JTAG的转接板       |
 | Jlink-OB                | Jlink              |
 | STlink-OB               | STlinkV2           |
+| JlinkV9                 | DIY JlinkV9 mini   |
 
