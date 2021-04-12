@@ -32,6 +32,18 @@
 
 
 
+开启虚拟串口功能（只有在SWD模式下可以用，TXD和TDI公用同一个GPIO）
+
+打开J-Link Commander，依次输入以下命令后重新插拔Jlink即可。
+
+power on
+
+power off
+
+vcom enable
+
+![](https://gitee.com/strongercjd/PCB/raw/master/JlinkV9/image/5.jpg)
+
 已经打样验证没有问题了
 
 ![](https://gitee.com/strongercjd/PCB/raw/master/JlinkV9/image/4.jpg)
