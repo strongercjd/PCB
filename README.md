@@ -14,4 +14,5 @@
 | Jlink-OB                | Jlink              |
 | STlink-OB               | STlinkV2           |
 | JlinkV9                 | DIY JlinkV9 mini   |
+| GD&ST207_Kit            | GD&ST207学习套件   |
 
