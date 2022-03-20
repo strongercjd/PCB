@@ -15,4 +15,5 @@
 | STlink-OB               | STlinkV2           |
 | JlinkV9                 | DIY JlinkV9 mini   |
 | GD&ST207_Kit            | GD&ST207学习套件   |
+| eco_gyro_analyze        | 工作上用的小工具   |
 
